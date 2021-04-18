@@ -1,0 +1,62 @@
+body {
+    font-family: 'Dancing Script', cursive;
+}
+
+.name-highlight {
+    color: orange;
+}
+
+.half-width {
+    width: 42%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+}
+
+section {
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+.link-button {
+    border: 3px solid rgb(17, 0, 255);
+    border-radius: 4px;
+    background-color: orange;
+    padding: 1px;
+    text-decoration: none;
+    color: rgb(253, 250, 250);
+    font-weight: 700;
+    background-image: linear-gradient(45deg, rgb(209, 133, 104), rgb(250, 226, 15));
+}
+
+.half-width2 {
+    width: 39%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width2 img {
+    width: 100%;
+}
+
+.top-banner2 {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.half-width3 {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
